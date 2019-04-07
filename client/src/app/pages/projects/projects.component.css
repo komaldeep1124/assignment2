@@ -1,0 +1,14 @@
+/* Custom CSS goes here.. */
+
+
+
+img {
+    height: 200px;
+    width: auto;
+    padding: 10px;
+    margin-left: 0;
+    border-image-outset: 0rem;
+    opacity: 1;
+}
+
+
